@@ -1,2 +1,2 @@
-# sl_animator
-animation library 
+# staller
+staller language repository
